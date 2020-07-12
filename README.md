@@ -7,7 +7,7 @@
 
 ## A 2D Roguelike Experience
 
-Complete with procedural tile-based levels, turn-based movement, hunger mechanics, and event-driven audio!
+Complete with procedural tile-based levels, turn-based movement, hunger mechanics, and old-school graphics and audio.
 
 ### Every day is a struggle to survive. 
 
