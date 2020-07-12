@@ -41,7 +41,7 @@ Score|Name
 ### Powered by Unity
 <img src="imgs/logo-unity.png" width="30%">
 
-Made in Unity 5 with the aid of their [official tutorial](https://learn.unity.com/project/2d-roguelike-tutorial).
+Made in Unity 5 using [a tutorial](https://learn.unity.com/project/2d-roguelike-tutorial), with tweaks to mechanics and audio.
 
 ### Maze Venturer
 
