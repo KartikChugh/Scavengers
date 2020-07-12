@@ -36,8 +36,13 @@ Score|Name
 33|michael
 27|kc
 
-## Powered By Unity
+## More Info
 
+### Powered by Unity
 <img src="imgs/logo-unity.png" width="30%">
 
 Made in Unity 5 with public assets, textures, and audio.
+
+### Maze Venturer
+
+Try a [maze-based variant](https://simmer.io/@kc7/maze-venturer/) of Scavengers!
