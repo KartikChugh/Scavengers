@@ -11,7 +11,7 @@ Complete with procedural tile-based levels, turn-based movement, hunger mechanic
 
 ### Every day is a struggle to survive. 
 
-Use WASD / arrow keys to manuever a lone adventurer, **Halen**, as he journeys through a long and dangerous dungeon. Goblins await, ready to pounce, but food and drinks replenish our brave hero.
+Use WASD / arrow keys to manuever a lone adventurer as he journeys through a long and dangerous dungeon. Goblins await, ready to pounce, but food and drinks replenish our brave hero.
 
 <img src="imgs/demo-escaping-HD.gif" width="335">
 
@@ -43,4 +43,4 @@ Made in Unity 5 with the help of a [Unity Learn tutorial](https://learn.unity.co
 
 ### Maze Venturer
 
-Try a [maze-based variant](https://simmer.io/@kc7/maze-venturer/) of Scavengers!
+A [maze-based variant](https://simmer.io/@kc7/maze-venturer/) of Scavengers was nominated for the Simmer.io Founder's Club.
