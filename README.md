@@ -43,4 +43,4 @@ Made in Unity 5 with the help of a [Unity Learn tutorial](https://learn.unity.co
 
 ### Maze Venturer
 
-A [maze-based variant](https://simmer.io/@kc7/maze-venturer/) of Scavengers was nominated for the Simmer.io Founder's Club.
+A [maze-based variant](https://simmer.io/@kc7/maze-venturer/) of Scavengers was nominated for the Simmer.io Founder's Club. It's significantly more challenging, as each move must be rationed carefully.
