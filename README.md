@@ -11,30 +11,28 @@ Complete with procedural tile-based levels, turn-based movement, hunger mechanic
 
 ### Every day is a struggle to survive. 
 
-Use WASD / arrow keys to manuever a lone adventurer, **Halen**, as he journeys through a long and dangerous dungeon. 
-<br> Goblins await, ready to pounce, but food and drinks replenish our brave hero.
+Use WASD / arrow keys to manuever a lone adventurer as he journeys through a long and dangerous dungeon. Goblins await, ready to pounce, but food and drinks replenish our brave hero.
 
-<img src="imgs/demo-escaping-HD.gif" width="40%">
+<img src="imgs/demo-escaping-HD.gif" width="335">
 
-### A new level is its own puzzle.
+### Each level is its own puzzle.
 
-No two levels are alike, thanks to the magic of procedural generation. 
-<br> Devise clever paths (or forge new ones) that acquire food and evade foes — but be sure not to burn your hunger bar in the process!
+No two levels are alike, thanks to the magic of procedural generation. Devise clever paths (or forge new ones) that acquire food, evade foes, and lead you to the escape — but be sure not to burn your hunger bar in the process!
 
-<img src="imgs/demo-mining-HD.gif" width="40%">
+<img src="imgs/demo-mining-HD.gif" width="335">
 
-### Each move can bring you away from, or closer to death.
+### A single move can seal your fate.
 
 The global highscore is **56 days**, achieved by yours truly. Submit your own scores [here](https://github.com/KartikChugh/Scavengers/issues/new)! Just set the title to your score, attach a photo, and hit submit.
 
-<img src="imgs/demo-die.png" width="40%">
+<img src="imgs/demo-die.png" width="335" height="275">
 
 #### Highscores
 Score|Name
 ---|---
 56|kc
 33|michael
-27|kc
+25|eric
 
 ## More Info
 
@@ -45,4 +43,4 @@ Made in Unity 5 with the help of a [Unity Learn tutorial](https://learn.unity.co
 
 ### Maze Venturer
 
-Try a [maze-based variant](https://simmer.io/@kc7/maze-venturer/) of Scavengers!
+A [maze-based variant](https://simmer.io/@kc7/maze-venturer/) of Scavengers was nominated for the Simmer.io Founder's Club.
