@@ -17,7 +17,7 @@ Use WASD / arrow keys to manuever a lone adventurer, **Halen**, as he journeys t
 
 ### Each level is its own puzzle.
 
-No two levels are alike, thanks to the magic of procedural generation. Devise clever paths (or forge new ones) that acquire food and evade foes — but be sure not to burn your hunger bar in the process!
+No two levels are alike, thanks to the magic of procedural generation. Devise clever paths (or forge new ones) that acquire food, evade foes, and lead you to the escape — but be sure not to burn your hunger bar in the process!
 
 <img src="imgs/demo-mining-HD.gif" width="335">
 
