@@ -5,9 +5,11 @@
 
 <a href="https://kartikchugh.itch.io/scavengers">![play](imgs/widget-play.png)</a>
 
+Or watch a playthrough [here](https://www.youtube.com/watch?v=fooLFTT1zDQ)!
+
 ## A 2D Roguelike Experience
 
-Complete with procedural tile-based levels, turn-based movement, hunger mechanics, and old-school graphics and audio.
+Complete with procedural tile-based levels, turn-based movement, hunger mechanics, and an old-school style.
 
 ### Every day is a struggle to survive. 
 
@@ -23,14 +25,14 @@ No two levels are alike, thanks to the magic of procedural generation. Devise cl
 
 ### A single move can seal your fate.
 
-The global highscore is **56 days**, achieved by yours truly. Submit your own scores [here](https://github.com/KartikChugh/Scavengers/issues/new)! Just set the title to your score, attach a photo, and hit submit.
+The global highscore is **67 days**, achieved by yours truly. Submit your own scores [here](https://github.com/KartikChugh/Scavengers/issues/new)! Just set the title to your score, attach a photo, and hit submit.
 
-<img src="imgs/demo-die.png" width="335" height="275">
+<img src="imgs/demo-die.png" width="335">
 
 #### Highscores
 Score|Name
 ---|---
-56|kc
+67|kc
 33|michael
 25|eric
 23|fady
@@ -44,4 +46,4 @@ Made in Unity 5 with the help of a [Unity Learn tutorial](https://learn.unity.co
 
 ### Maze Venturer
 
-A [maze-based variant](https://simmer.io/@kc7/maze-venturer/) of Scavengers was nominated for the Simmer.io Founder's Club. It's significantly more challenging, as each move must be rationed carefully.
+A [maze-based variant](https://simmer.io/@kc7/maze-venturer/) of Scavengers was nominated for the **Simmer.io Founder's Club**. You have a greater number of possible paths to take, but surviving is significantly more challenging as each move must be rationed carefully.
