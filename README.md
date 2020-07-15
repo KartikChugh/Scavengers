@@ -32,9 +32,9 @@ The global highscore is **67 days**, achieved by yours truly. Submit your own sc
 Score|Name
 ---|---
 67|kc
+49|eric
 33|michael
 25|clara
-25|eric
 23|fady
 20|cam
 
