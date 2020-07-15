@@ -29,13 +29,15 @@ The global highscore is **67 days**, achieved by yours truly. Submit your own sc
 
 <img src="imgs/demo-die.png" width="335">
 
-#### Highscores
+#### Leaderboard
 Score|Name
 ---|---
 67|kc
 33|michael
+25|clara
 25|eric
 23|fady
+20|cam
 
 ## More Info
 
