@@ -1,5 +1,4 @@
-
-![logo](imgs/logo-scavengers.png)
+<img src="imgs/logo-scavengers-social-small.png" width="600">
 
 ## Play Now!
 
