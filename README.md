@@ -34,6 +34,7 @@ Score|Name
 67|kc
 49|eric
 33|michael
+26|brian
 25|clara
 23|fady
 20|cam
