@@ -1,4 +1,4 @@
-<img src="imgs/logo-scavengers-social-small.png" width="600">
+<a href="https://kartikchugh.itch.io/scavengers"><img src="imgs/logo-scavengers-social-small.png" width="600"></a>
 
 ## Play Now!
 
@@ -48,4 +48,4 @@ Made in Unity 5 with the help of a [Unity Learn tutorial](https://learn.unity.co
 
 ### Maze Venturer
 
-A [maze-based variant](https://simmer.io/@kc7/maze-venturer/) of Scavengers was nominated for the **Simmer.io Founder's Club**. You have a greater number of possible paths to take, but surviving is significantly more challenging as each move must be rationed carefully.
+A [maze-based variant](https://simmer.io/@kc7/maze-venturer/) of Scavengers was nominated for the **Simmer.io Founder's Club**. You have a greater number of paths to choose from, but surviving is more challenging as each move must be rationed carefully.
