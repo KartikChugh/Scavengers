@@ -24,7 +24,7 @@ No two levels are alike, thanks to the magic of procedural generation. Devise cl
 
 ### A single move can seal your fate.
 
-The global highscore is **69 days**, achieved by yours truly. Submit your own scores [here](https://github.com/KartikChugh/Scavengers/issues/new)! Just set the title to your score, attach a photo, and hit submit.
+The global highscore is **69 days**! Submit your own scores [here](https://github.com/KartikChugh/Scavengers/issues/new)! Just set the title to your score, attach a photo, and hit submit.
 
 <img src="imgs/demo-die.png" width="335">
 
